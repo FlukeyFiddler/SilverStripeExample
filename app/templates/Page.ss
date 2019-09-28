@@ -27,7 +27,7 @@
 	<link href="css/style.css" rel="stylesheet" />
 	
 	<!-- Modernizr -->
-	<script src="js/common/modernizr.js"></script>
+	<script src="javascript/common/modernizr.js"></script>
 </head>
 <body>
 	<!-- BEGIN WRAPPER -->
@@ -238,13 +238,13 @@
 	</div>
 	<!-- END WRAPPER -->
 
-	<script type="text/javascript" src="js/common/jquery-1.11.1.min.js"></script>
-	<script type="text/javascript" src="js/common/bootstrap.min.js"></script>
-	<script type="text/javascript" src="js/common/bootstrap-datepicker.js"></script>
-	<script type="text/javascript" src="js/common/chosen.min.js"></script>
-	<script type="text/javascript" src="js/common/bootstrap-checkbox.js"></script>
-	<script type="text/javascript" src="js/common/nice-scroll.js"></script>
-	<script type="text/javascript" src="js/common/jquery-browser.js"></script>
-	<script type="text/javascript" src="js/scripts.js"></script>
+	<script type="text/javascript" src="javascript/common/jquery-1.11.1.min.js"></script>
+	<script type="text/javascript" src="javascript/common/bootstrap.min.js"></script>
+	<script type="text/javascript" src="javascript/common/bootstrap-datepicker.js"></script>
+	<script type="text/javascript" src="javascript/common/chosen.min.js"></script>
+	<script type="text/javascript" src="javascript/common/bootstrap-checkbox.js"></script>
+	<script type="text/javascript" src="javascript/common/nice-scroll.js"></script>
+	<script type="text/javascript" src="javascript/common/jquery-browser.js"></script>
+	<script type="text/javascript" src="javascript/scripts.js"></script>
 </body>
 </html>
